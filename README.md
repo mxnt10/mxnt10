@@ -1,9 +1,9 @@
 <h1>Olá, sou Mauricio Ferrari! 👋</h1>
 
-Formação:
+<!-- Formação:
 Análise e Desenvolvimento de sistemas.
 
-Projetos pessoais:
+Projetos pessoais: -->
 
 
 <div align="left">
