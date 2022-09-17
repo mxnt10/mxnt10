@@ -1,14 +1,21 @@
 <h1>Olá, sou Mauricio Ferrari! 👋</h1>
 
-<!-- Formação:
-Análise e Desenvolvimento de sistemas.
+<p>
+  Sou formado em Análise e Desenvolvimento de sistemas pela UNIP EAD.<br/>
+  Participei da imersão DEV da Alura. 
+</p>
 
-Projetos pessoais: -->
+<h2>Projetos pessoais</h2>
+<div>
+    <img src="https://img.shields.io/github/v/release/mxnt10/cpu-limit?color=00aa00&label=CPU-Limit%20%3E%3D&style=flat-square">
+</div><br/><br/>
+
+<h1 align="center"> Estatísticas e Técnologias</h1>
 
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mxnt10&show_icons=true&theme=aura&include_all_commits=true&count_private=true">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxnt10&layout=compact&langs_count=7&theme=aura"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mxnt10&show_icons=true&theme=aura&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxnt10&layout=compact&langs_count=7&theme=aura"/>
 </div><br/>
 
 <div align="center">
