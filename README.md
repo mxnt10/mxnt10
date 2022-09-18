@@ -7,8 +7,8 @@
 
 <h2>Projetos pessoais</h2>
 <div>
-    <img src="https://img.shields.io/github/v/release/mxnt10/cpu-limit?color=00aa00&label=CPU-Limit%20%3E%3D&style=flat-square"><br/>
-    <img src="https://img.shields.io/github/v/release/mxnt10/ckdeps?color=00aa00&label=CkDeps%20%3E%3D&style=flat-square">
+    <img src="https://img.shields.io/github/v/release/mxnt10/cpu-limit?color=00aa00&label=CPU-Limit%20-%20CPU%20Frequency%20Limit&style=flat-square"><br/>
+    <img src="https://img.shields.io/github/v/release/mxnt10/ckdeps?color=00aa00&label=CkDeps%20-%20Check%20Dependencies&style=flat-square">
 </div><br/><br/>
 
 <h1 align="center"> Estatísticas e Técnologias</h1>
