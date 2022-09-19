@@ -21,8 +21,8 @@ As principais linguagens que eu estudei foi:<br/>
 <h1 align="center"> Estatísticas e Técnologias</h1>
 
 <div align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=mxnt10&show_icons=true&theme=aura&include_all_commits=true">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxnt10&layout=compact&langs_count=8&theme=aura"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mxnt10&show_icons=true&theme=aura&include_all_commits=true">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxnt10&layout=compact&langs_count=8&theme=aura"/>
 </div><br/>
 
 <div align="center">
