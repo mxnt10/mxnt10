@@ -1,7 +1,7 @@
 <h1>Olá, sou Mauricio Ferrari! 👋</h1>
 
 Sou formado em Análise e Desenvolvimento de sistemas pela UNIP EAD.<br/>
-Participei da imersão DEV da Alura.<br/><br/>
+Participei da imersão DEV da Alura - 09/2022.<br/><br/>
 As principais linguagens que eu estudei foi:<br/>
 -> C/C++.<br/>
 -> Python.<br/>
