@@ -10,6 +10,12 @@ As principais linguagens que eu estudei foi:<br/>
 -> Tem mais, mas não vou incluir o que eu não aprofundei.<br/>
 </h4><br/>
 
+<p class="codepen" data-height="510" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="XWqbmGr" data-user="mauricio-ferrari" style="height: 510px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/mauricio-ferrari/pen/XWqbmGr">
+  Calculadora de média</a> by Mauricio Ferrari (<a href="https://codepen.io/mauricio-ferrari">@mauricio-ferrari</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+
 <h2>Projetos pessoais</h2>
 <div>
   <img src="https://img.shields.io/github/v/release/mxnt10/cpu-limit?color=00aa00&label=CPU-Limit%20-%20CPU%20Frequency%20Limit&style=flat-square"><br/>
