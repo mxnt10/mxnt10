@@ -1,6 +1,6 @@
 <h1>Olá, sou Mauricio Ferrari! 👋</h1>
 
-<h4>Sou formado em Análise e Desenvolvimento de sistemas pela UNIP EAD.<br/>
+<h3>Sou formado em Análise e Desenvolvimento de sistemas pela UNIP EAD.<br/>
 Participei da imersão DEV da Alura.<br/>
 As principais linguagens que eu estudei foi:<br/>
 -> C/C++.<br/>
@@ -8,7 +8,7 @@ As principais linguagens que eu estudei foi:<br/>
 -> JavaScript / CSS / HTML5.<br/>
 -> Shell Script.<br/>
 -> Tem mais, mas não vou incluir o que eu não aprofundei.<br/>
-</h4><br/>
+</h3><br/>
 
 <h2>Projetos pessoais</h2>
 <div>
