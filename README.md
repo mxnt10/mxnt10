@@ -35,3 +35,6 @@ As principais linguagens que eu estudei foi:<br/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" height="80" width="70"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="80" width="70"/>
 </div>
+
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
