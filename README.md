@@ -21,8 +21,8 @@ As principais linguagens que eu estudei foi:<br/>
 <h1 align="center"> Estatísticas e Técnologias</h1>
 
 <div align="center">
-  <img height="191em" src="https://github-readme-stats.vercel.app/api?username=mxnt10&show_icons=true&theme=aura&include_all_commits=true">
-  <img height="191em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxnt10&layout=compact&langs_count=8&theme=aura"/>
+  <img height="191em" src="https://github-readme-stats.vercel.app/api?username=mxnt10&show_icons=true&theme=tokyonight&include_all_commits=true">
+  <img height="191em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxnt10&layout=compact&langs_count=8&theme=tokyonight"/>
 </div><br/>
 
 <div align="center">
@@ -36,5 +36,9 @@ As principais linguagens que eu estudei foi:<br/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="80" width="70"/>
 </div>
 
- ![Snake animation](https://github.com/mxnt10/mxnt10/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+![Snake animation](https://github.com/mxnt10/mxnt10/blob/output/github-contribution-grid-snake.svg)
+
+</div>
  
