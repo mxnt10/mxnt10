@@ -22,8 +22,8 @@ As principais linguagens que eu estudei foi:<br/>
   <a href="https://github.com/mxnt10/ckdeps">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mxnt10&repo=ckdeps&theme=tokyonight">
   </a>
-  <a href="https://github.com/mxnt10/OMPlayer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mxnt10&repo=OMPlayer&theme=tokyonight">
+  <a href="https://github.com/mxnt10/wine-slackware-depends">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mxnt10&repo=wine-slackware-depends&theme=tokyonight">
   </a>
   
 </div><br/>
