@@ -1,4 +1,4 @@
-<h1>Olá, sou Mauricio Ferrari! 👋</h1>
+<h1>Olá, sou Mauricio Ferrari! 👋 🇧🇷</h1>
 
 Sou formado em Análise e Desenvolvimento de sistemas pela UNIP EAD.<br/>
 Participei da imersão DEV da Alura - 09/2022.<br/><br/>
@@ -10,7 +10,7 @@ As principais linguagens que eu estudei foi:<br/>
 -> Tem mais, mas não vou incluir o que eu não aprofundei.<br/>
 <br/>
 
-<h2>Projetos pessoais</h2>
+<h1 align="center"> Projetos pessoais</h1>
 <div>
   <img src="https://img.shields.io/github/v/release/mxnt10/cpu-limit?color=00aa00&label=CPU-Limit%20-%20CPU%20Frequency%20Limit&style=flat-square"><br/>
   <img src="https://img.shields.io/github/v/release/mxnt10/ckdeps?color=00aa00&label=CkDeps%20-%20Check%20Dependencies&style=flat-square"><br/>
