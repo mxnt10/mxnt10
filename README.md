@@ -10,12 +10,22 @@ As principais linguagens que eu estudei foi:<br/>
 -> Tem mais, mas não vou incluir o que eu não aprofundei.<br/>
 <br/>
 
-<h1 align="center"> Projetos pessoais</h1>
-<div>
-  <img src="https://img.shields.io/github/v/release/mxnt10/cpu-limit?color=00aa00&label=CPU-Limit%20-%20CPU%20Frequency%20Limit&style=flat-square"><br/>
-  <img src="https://img.shields.io/github/v/release/mxnt10/ckdeps?color=00aa00&label=CkDeps%20-%20Check%20Dependencies&style=flat-square"><br/>
-  <img src="https://img.shields.io/github/v/release/mxnt10/face?color=00aa00&label=Face%20-%20Facebook%20Desktop&style=flat-square"><br/>
-  <img src="https://img.shields.io/github/v/release/mxnt10/insta?color=00aa00&label=Insta%20-%20Instagram%20Desktop&style=flat-square">
+
+<div align="center">
+  <h1> Projetos Pessoais</h1>
+  <a href="https://github.com/mxnt10/OMPlayer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mxnt10&repo=OMPlayer&theme=tokyonight">
+  </a>
+  <a href="https://github.com/mxnt10/cpu-limit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mxnt10&repo=cpu-limit&theme=tokyonight">
+  </a>
+  <a href="https://github.com/mxnt10/ckdeps">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mxnt10&repo=ckdeps&theme=tokyonight">
+  </a>
+  <a href="https://github.com/mxnt10/OMPlayer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mxnt10&repo=OMPlayer&theme=tokyonight">
+  </a>
+  
 </div><br/>
 
 <h1 align="center"> Estatísticas e Técnologias</h1>
