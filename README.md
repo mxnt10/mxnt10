@@ -14,16 +14,16 @@ As principais linguagens que eu estudei foi:<br/>
 <div align="center">
   <h1> Projetos Pessoais</h1>
   <a href="https://github.com/mxnt10/OMPlayer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mxnt10&repo=OMPlayer&theme=tokyonight&">
+    <img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=mxnt10&repo=OMPlayer&theme=tokyonight">
   </a>
   <a href="https://github.com/mxnt10/cpu-limit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mxnt10&repo=cpu-limit&theme=tokyonight&">
+    <img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=mxnt10&repo=cpu-limit&theme=tokyonight">
   </a>
   <a href="https://github.com/mxnt10/ckdeps">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mxnt10&repo=ckdeps&theme=tokyonight">
+    <img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=mxnt10&repo=ckdeps&theme=tokyonight">
   </a>
   <a href="https://github.com/mxnt10/wine-slackware-depends">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mxnt10&repo=wine-slackware-depends&theme=tokyonight&show_icons=true">
+    <img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=mxnt10&repo=wine-slackware-depends&theme=tokyonight">
   </a>
   
 </div><br/>
