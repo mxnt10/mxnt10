@@ -5,9 +5,14 @@ Participei da imersão DEV da Alura - 09/2022.<br/><br/>
 
 <div align="center">
   <h1>Linguagens e Técnologias</h1>
-  
-  
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" height="80" width="80"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" height="80" width="80"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" height="80" width="80"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" height="80" width="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" height="80" width="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" height="80" width="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" height="80" width="70"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="80" width="70"/>
 </div>
 
 <div align="center">
