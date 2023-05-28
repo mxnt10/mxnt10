@@ -20,8 +20,8 @@ Participei da imersão DEV da Alura - 09/2022.<br/><br/>
   <a href="https://github.com/mxnt10/OMPlayer">
     <img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=mxnt10&repo=OMPlayer&theme=tokyonight">
   </a>
-  <a href="https://github.com/mxnt10/cpu-limit">
-    <img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=mxnt10&repo=cpu-limit&theme=tokyonight">
+  <a href="https://github.com/mxnt10/CloudDownYad">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=mxnt10&repo=CloudDownYad&theme=tokyonight">
   </a>
   <a href="https://github.com/mxnt10/ckdeps">
     <img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=mxnt10&repo=ckdeps&theme=tokyonight">
