@@ -29,6 +29,9 @@ Participei da imersão DEV da Alura - 09/2022.<br/><br/>
   <a href="https://github.com/mxnt10/FrequencyCPU">
     <img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=mxnt10&repo=FrequencyCPU&theme=tokyonight">
   </a>
+  <a href="https://github.com/mxnt10/install-packages-slackware">
+    <img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=mxnt10&repo=install-packages-slackware&theme=tokyonight">
+  </a>
 <!--   <a href="https://github.com/mxnt10/wine-slackware-depends">
     <img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=mxnt10&repo=wine-slackware-depends&theme=tokyonight">
   </a> -->
