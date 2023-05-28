@@ -41,7 +41,7 @@ Participei da imersão DEV da Alura - 09/2022.<br/><br/>
 <h1 align="center"> Estatísticas</h1>
 
 <div align="center">
-  <img height="191em" src="https://github-readme-stats.vercel.app/api?username=mxnt10&show_icons=true&theme=tokyonight&include_all_commits=true">
+  <img height="191em" src="https://github-readme-stats.vercel.app/api?username=mxnt10&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github">
   <img height="191em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxnt10&layout=compact&langs_count=8&theme=tokyonight"/>
 
 <br/>
