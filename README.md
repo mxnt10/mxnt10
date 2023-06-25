@@ -1,7 +1,7 @@
 <h1>Olá, sou Mauricio Ferrari! 👋 🇧🇷</h1>
 
 Sou formado em Análise e Desenvolvimento de sistemas pela UNIP EAD.<br/>
-Participei da imersão DEV da Alura - 09/2022.<br/><br/>
+Participei da imersão DEV da Alura.<br/><br/>
 
 <div align="center">
   <h1>Linguagens e Técnologias</h1>
@@ -21,7 +21,7 @@ Participei da imersão DEV da Alura - 09/2022.<br/><br/>
     <img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=mxnt10&repo=OMPlayer&theme=tokyonight">
   </a> -->
   <a href="https://github.com/mxnt10/CloudDownYad">
-    <img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=mxnt10&repo=CloudDownYad&theme=tokyonight&=">
+    <img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=mxnt10&repo=CloudDownYad&theme=tokyonight">
   </a>
   <a href="https://github.com/mxnt10/ckdeps">
     <img height="145em" src="https://github-readme-stats.vercel.app/api/pin/?username=mxnt10&repo=ckdeps&theme=tokyonight">
